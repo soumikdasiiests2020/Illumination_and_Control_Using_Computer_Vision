@@ -6,7 +6,7 @@
 ## Project Title
 Illumination Control 🔆 using Computer Vision 👁
 ## Team Members 
-- [Kaustav Saha](https://github.com/Kaustav-45)
+- [Soumik Das](https://github.com/soumikdasiiests2020)
 - [Subhadeep Das](https://github.com/subhadeep01)
 - [Soham Patra](https://github.com/Sohampatra1)
 - [Raunak Gayen](https://github.com/RaunakGN2001)
